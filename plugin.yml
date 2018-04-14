@@ -1,0 +1,7 @@
+name: ExplodingArrows
+main: io.github.footballmatt01.explodingArrows.ExplodingArrows
+version: 0.1.1
+commands:
+  kit:
+    description: idk
+    usage: /kit  
